@@ -9,9 +9,9 @@
 
 ### 🧩 About Me
 
-I'm a hobbyist engineer who likes exploring the intersection of **software, hardware, and design**. Some things I'm into:
+I'm a 15-year-old high school student and hobbyist engineer who likes exploring the intersection of **software, hardware, and design**. Some things I'm into:
 
-- 🎮 **Game dev** — tinkering with small projects and mechanics
+- 💻 **Software** — building small projects and learning new languages/frameworks
 - 🔧 **Hardware** — Arduino / Raspberry Pi builds and embedded tinkering
 - 🤖 **Automation & scripting** — making repetitive things do themselves
 - 🎨 **Web & creative coding** — generative art, interactive pages, fun with the browser
@@ -57,3 +57,15 @@ I like combining these rather than sticking to just one lane — a lot of my pro
 | [project-name](https://github.com/Cloxennn/project-name) | One-line description | Arduino, C++ |
 
 -->
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:cloxen@proton.me"><img src="https://img.shields.io/badge/Email-cloxen%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cloxennn&style=flat-square&color=blue" alt="Profile views" />
+</p>
