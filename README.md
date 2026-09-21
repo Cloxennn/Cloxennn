@@ -11,11 +11,11 @@
 
 I'm a 15-year-old high school student who spends most of my free time learning software development, computer science, and cybersecurity. Im also into graphic design and writing small scripts to automate things Im too lazy to do manually.
 
-- 💻 **Software Dev** — building small software projects and picking up new languages along the way
-- 🔐 **Cybersecurity** — learning the basics and how systems actually get broken into
-- 📚 **Computer Science** — studying core CS concepts outside of class
-- 🤖 **Automation** — writing scripts to automate repetitive tasks
-- 🖌️ **Graphic Design** — designing visuals, branding, and interfaces on the side
+-  **Software Dev** — building small software projects and picking up new languages along the way
+-  **Cybersecurity** — learning the basics and how systems actually get broken into
+-  **Computer Science** — studying core CS concepts outside of class
+-  **Automation** — writing scripts to automate repetitive tasks
+-  **Graphic Design** — designing visuals, branding, and interfaces on the side
 
 I don't stick to just one of these — most of my projects end up mixing a few together.
 
