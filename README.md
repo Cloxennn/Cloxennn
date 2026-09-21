@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Cloxennn 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=8A2BE2&height=180&section=header&text=Hi,%20I'm%20Cloxennn&fontSize=42&fontColor=ffffff&fontAlignY=40" alt="Header banner" />
+</p>
+
+
+
+
 <h3 align="center">Software Developer · Cybersecurity Enthusiast · Linux Glazer</h3>
 
 <p align="center">
