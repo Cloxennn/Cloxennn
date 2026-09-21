@@ -1,26 +1,27 @@
 <h1 align="center">Hi, I'm Cloxennn 👋</h1>
-<h3 align="center">Hobbyist Engineer — Software Dev · Arduino Tinkerer · Linux Enthusiast</h3>
+<h3 align="center">Software Developer · Cybersecurity Enthusiast · Linux Glazer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=15+y%2Fo+dev+learning+by+building+things;Software+%7C+Hardware+%7C+Linux;Automation+%26+graphic+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=15+y%2Fo+student+studying+software+%26+CS;Software+%7C+Cybersecurity+%7C+Linux;Automation+%26+graphic+design" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧩 About Me
+### About Me
 
-I'm a 15-year-old high school student and hobbyist engineer who likes exploring the intersection of **software, hardware, and design**. Some things I'm into:
+I'm a 15-year-old high school student who spends most of my free time learning software development, computer science, and cybersecurity. Im also into graphic design and writing small scripts to automate things Im too lazy to do manually.
 
-- 💻 **Software** — building small projects and learning new languages/frameworks
-- 🔧 **Hardware** — Arduino / Raspberry Pi builds and embedded tinkering
-- 🤖 **Automation & scripting** — making repetitive things do themselves
-- 🖌️ **Graphic design** — visuals, branding, and UI experiments
+- 💻 **Software Dev** — building small software projects and picking up new languages along the way
+- 🔐 **Cybersecurity** — learning the basics and how systems actually get broken into
+- 📚 **Computer Science** — studying core CS concepts outside of class
+- 🤖 **Automation** — writing scripts to automate repetitive tasks
+- 🖌️ **Graphic Design** — designing visuals, branding, and interfaces on the side
 
-I like combining these rather than sticking to just one lane — a lot of my projects mix code, hardware, and visuals together.
+I don't stick to just one of these — most of my projects end up mixing a few together.
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -33,15 +34,13 @@ I like combining these rather than sticking to just one lane — a lot of my pro
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="mailto:cloxen@proton.me"><img src="https://img.shields.io/badge/Email-cloxen%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
