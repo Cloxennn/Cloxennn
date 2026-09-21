@@ -60,25 +60,11 @@ I like combining these rather than sticking to just one lane — a lot of my pro
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Cloxennn&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloxennn&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cloxennn&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
-<!-- Swap in your real links/usernames below -->
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="t.me/Feeling_Salamander42"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 <p align="center">
