@@ -57,16 +57,3 @@ I like combining these rather than sticking to just one lane — a lot of my pro
 | [project-name](https://github.com/Cloxennn/project-name) | One-line description | Arduino, C++ |
 
 -->
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="t.me/Feeling_Salamander42"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cloxennn&style=flat-square&color=blue" alt="Profile views" />
-</p>
