@@ -1,29 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=8A2BE2&height=180&section=header&text=Hi,%20I'm%20Cloxennn&fontSize=42&fontColor=ffffff&fontAlignY=40" alt="Header banner" />
-</p>
-
-
-
-
-<h3 align="center">Software Developer · Cybersecurity Enthusiast · Linux Glazer</h3>
+<h1 align="center">Hi, I'm Cloxennn :33</h1>
+<h3 align="center">Software Developer · Cybersecurity Enthusiast · Linux User</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=15+y%2Fo+student+studying+software+%26+CS;Software+%7C+Cybersecurity+%7C+Linux;Automation+%26+graphic+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=01110011+01101111+01100110+01110100+01110111+01100001+01110010+01100101;01100011+01111001+01100010+01100101+01110010+01110011+01100101+01100011;01101100+01101001+01101110+01110101+01111000" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-I'm 15, still in high school, and most of my free time goes into learning software development, computer science, and cybersecurity. Started out just messing around with code and it kind of snowballed from there. I also pick up graphic design when I feel like it, and I write scripts whenever I'm too lazy to do something by hand.
-
-- **Software Dev** — building small projects and learning new languages as I go
-- **Cybersecurity** — figuring out how systems actually get broken into
-- **Computer Science** — studying core CS stuff outside of school
-- **Automation** — scripting away repetitive tasks
-- **Graphic Design** — visuals, branding, interfaces, whatever looks good
-
-I dont really stick to one of these at a time.
+I'm 15, still in high school, and I spend most of my free time learning software development, website development, and computer science. I also write scripts to automate stuff and mess around with graphic design on the side.
 
 ---
 
