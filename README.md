@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cloxennn :33</h1>
-<h3 align="center">Software Developer · Cybersecurity Enthusiast · Linux User</h3>
+<h3 align="center">Software Developer and CS enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=01110011+01101111+01100110+01110100+01110111+01100001+01110010+01100101;01100011+01111001+01100010+01100101+01110010+01110011+01100101+01100011;01101100+01101001+01101110+01110101+01111000" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm 15, still in high school, and I spend most of my free time learning software development, website development, and computer science. I also write scripts to automate stuff and mess around with graphic design on the side.
+I'm 15, still in high school, and I spend most of my free time learning software development,and computer science.
 
 ---
 
